@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "title": "Ohmyfood",
+        "description": "Développement du site Ohmyfood en utilisant le pré-processeur Sass, avec l'intégration d'animations visant à améliorer l'expérience utilisateur et l'aspect visuel du site.",
+        "alt": "Page principale de Ohmyfood montrant le design, les titres, et deux repas en présentation",
+        "picture": "/projects/ohmyfood-448w.webp",
+        "skills": [
+            "html",
+            "sass"
+        ],
+        "links": {
+            "github": "https://tran585.github.io/P4/",
+            "website": "https://tran585.github.io/P4/index.html"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Sophie Bluel",
+        "description": "Développer le portfolio de Sophie Bluel avec JavaScript pour des pages dynamiques et en communiquant avec l'API.",
+        "alt": "Page d'accueil de Sophie Bluel avec sa photo de profil, et un texte de présentation en premier plan",
+        "picture": "/projects/sophie-bluel-448w.webp",
+        "skills": [
+            "javascript",
+            "sass"
+        ],
+        "links": {
+            "github": "https://github.com/tran585/P6"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Kasa",
+        "description": "La réalisation du site avec React, en utilisant React Router. J'ai pu créer des composants réutilisables, gérer la navigation de l'utilisateur et les animations avec Sass.",
+        "alt": "Site de kasa, avec la section galerie en premier plan avec différentes photos d'appartements",
+        "picture": "/projects/kasa-448w.webp",
+        "skills": [
+            "sass",
+            "react"
+        ],
+        "links": {
+            "github": "https://github.com/tran585/P8",
+            "website": "https://p8-kasa-project.vercel.app/"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Nina Carducci Photographe",
+        "description": "J'ai optimisé le référencement naturel (SEO), la performance et l'accessibilité du site. J'ai utilisé des outils tels que Lighthouse et Wave pour cette optimisation.",
+        "alt": "Photo du site montrant une image profile de Nina à la gauche, texte de présentation à droite",
+        "picture": "/projects/nina-carducci-448w.webp",
+        "skills": [
+            "html",
+            "css"
+        ],
+        "links": {
+            "github": "https://github.com/tran585/photographe-nina-carducci",
+            "website": "https://tran585.github.io/photographe-nina-carducci/"
+        }
+    },
+    {
+        "id": 5,
+        "title": "724 Events",
+        "description": "Pour ce projet, j'ai réglé les bugs présents déjà repérés par l'équipe, d'en repérer de nouveaux. Avec l'utilisation d'outils tels que React Developer Tools, ou Chrome DevTools, d'effectuer les tests et d'en créer, etc.",
+        "alt": "Site de 724 Events avec en premier plan leurs réalisations catégorie expérience digitale",
+        "picture": "/projects/724-events-448w.webp",
+        "skills": [
+            "sass",
+            "react"
+        ],
+        "links": {
+            "github": "https://github.com/tran585/P10",
+            "website": "https://724-events-website.vercel.app/"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Argent Bank",
+        "description": "L'intégration du front-end avec React/Redux. Gestion des données avec Redux, affichage sécurisé des données provenant du back-end. Utilisation de Swagger pour documenter les API et des routes pour la communication client/serveur.",
+        "alt": "L'accueil du site web Argent Bank",
+        "picture": "/projects/argent-bank-448w.webp",
+        "skills": [
+            "react",
+            "redux",
+            "css"
+        ],
+        "links": {
+            "github": "https://github.com/tran585/P11-argent-bank"
+        }
+    }
+]
