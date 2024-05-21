@@ -12,10 +12,10 @@ export default function Header() {
       const currentScroll =
         window.scrollY || document.documentElement.scrollTop
       if (currentScroll > lastScrollTop) {
-        setIsHidden(true) // Scroll vers le bas
+        setIsHidden(true) // Scroll down
         setIsOpened(false)
       } else {
-        setIsHidden(false) // Scroll vers le haut
+        setIsHidden(false) // Scroll up
       }
       setLastScrollTop(currentScroll)
     }

@@ -61,7 +61,7 @@
     {
         "id": 5,
         "title": "724 Events",
-        "description": "Pour ce projet, j'ai réglé les bugs présents déjà repérés par l'équipe, d'en repérer de nouveaux. Avec l'utilisation d'outils tels que React Developer Tools, ou Chrome DevTools, d'effectuer les tests et d'en créer, etc.",
+        "description": "Pour ce projet, j'ai réglé les bugs déjà repérés par l'équipe, identifié de nouveaux bugs en utilisant des outils tels que React Developer Tools et Chrome DevTools, etc.",
         "alt": "Site de 724 Events avec en premier plan leurs réalisations catégorie expérience digitale",
         "picture": "/projects/724-events-448w.webp",
         "skills": [
@@ -76,7 +76,7 @@
     {
         "id": 6,
         "title": "Argent Bank",
-        "description": "L'intégration du front-end avec React/Redux. Gestion des données avec Redux, affichage sécurisé des données provenant du back-end. Utilisation de Swagger pour documenter les API et des routes pour la communication client/serveur.",
+        "description": "L'intégration du Front-end avec React/Redux. Gestion des données avec Redux, affichage sécurisé des données provenant du Back-end. Utilisation de Swagger pour documenter l'API et les routes pour la communication client/serveur.",
         "alt": "L'accueil du site web Argent Bank",
         "picture": "/projects/argent-bank-448w.webp",
         "skills": [
